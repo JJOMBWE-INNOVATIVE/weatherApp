@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">weather</string>
+    <string name="country">Country</string>
+    <string name="_100">100</string>
+    <string name="sunset">Sunset</string>
+    <string name="search_here">Search here...</string>
+    <string name="time">Time</string>
+    <string name="min_temp">Min Temp</string>
+    <string name="max_temp">Max Temp</string>
+    <string name="_12">12</string>
+    <string name="feels_like">Feels Like</string>
+    <string name="weather">Weather</string>
+    <string name="pressure">Pressure</string>
+    <string name="humidity">Humidity</string>
+    <string name="wind_speed">Wind Speed</string>
+    <string name="sunrise">Sunrise</string>
+    <string name="f">°F</string>
+    <string name="sea">Sea</string>
+</resources>
